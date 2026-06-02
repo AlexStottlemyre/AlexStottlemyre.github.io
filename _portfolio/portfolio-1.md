@@ -3,5 +3,5 @@ title: "Alex's Resume"
 excerpt: "My resume for working"
 collection: portfolio
 ---
-[Resume](https://docs.google.com/document/d/1Y6WGfeKCa-Ac2fzbV387F5TgA__vq2RTY07uvuJuUVY/edit?usp=sharing)
+[Resume]([https://docs.google.com/document/d/1Y6WGfeKCa-Ac2fzbV387F5TgA__vq2RTY07uvuJuUVY/edit?usp=sharing](https://docs.google.com/document/d/1WbFrPbQriSaHRIVysY5ZSNk8oXyMYX8rc9oboJsB39M/edit?usp=sharing))
 
